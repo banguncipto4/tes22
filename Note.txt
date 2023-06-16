@@ -1,0 +1,7 @@
+Team terdiri dari 3 orang : Annisa Wahyuni Enun, Bangun Sucipto Darmawan, Yulia Dewi Susanti
+
+Pengerjaan Dilakukan Secara bertahap dan Saling Memperbaiki Project yang dikerjakan dengan persetujuan kelompok
+1. Javascript : Annisa Wahyuni Enun, Bangun Sucipto Darmawan, Yulia Dewi Susanti
+2. Front End : Annisa Wahyuni Enun, Bangun Sucipto Darmawan, Yulia Dewi Susanti
+3. Deploy : Bangun Sucipto Darmawan
+
